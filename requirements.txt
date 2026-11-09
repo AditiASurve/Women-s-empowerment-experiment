@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+statsmodels
+stargazer
+geopandas
+python-dateutil
